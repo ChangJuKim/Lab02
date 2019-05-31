@@ -10,3 +10,5 @@ Pull Request: https://github.com/Riantix/PullReq
 ![GitDiff](pictures/gitDiff.png)
 
 ![GitTag](pictures/gitTag.png)
+
+Table 1's OSSProjectIdeas: https://github.com/prashb99/OSSProjectIdeas
