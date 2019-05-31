@@ -4,3 +4,9 @@ https://github.com/Riantix/Lab02
 Forking link: https://github.com/Riantix/Spoon-Knife
 
 ![GitBranching](pictures/LearnGitBranching.png)
+
+Pull Request: https://github.com/Riantix/PullReq
+
+![GitDiff](pictures/gitDiff.png)
+
+![GitTag](pictures/gitTag.png)
